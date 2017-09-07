@@ -1,5 +1,6 @@
 {
     "board": "arduino:avr:nano",
     "configuration": "cpu=atmega328",
-    "sketch": "testLedMatrix.ino"
+    "sketch": "testLedMatrix.ino",
+    "port": "COM9"
 }
